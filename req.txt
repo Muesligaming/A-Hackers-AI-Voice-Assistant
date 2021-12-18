@@ -3,6 +3,7 @@ audioread==2.1.9
 certifi==2020.12.5
 dataclasses==0.6
 dill==0.3.4
+folium==0.2.1
 filelock==3.0.12
 fsspec==0.8.5
 future==0.18.2
@@ -23,7 +24,7 @@ pytorch-lightning==1.1.1
 regex==2020.11.13
 resampy==0.2.2
 sacremoses==0.0.43
-scikit-learn==0.22.2.post1
+scikit-learn==0.24
 scipy==1.4.1
 seaborn==0.11.1
 sentencepiece==0.1.94
@@ -46,6 +47,6 @@ jupyter==1.0.0
 pandarallel==1.4.8
 pydub==0.23.1
 librosa==0.7.2
-scikit-learn==0.22.2.post1
 sonopy==0.1.2
 pyaudio==0.2.11
+imgaug == 0.2.7
